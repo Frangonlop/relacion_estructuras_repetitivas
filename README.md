@@ -16,7 +16,7 @@ El repositorio está organizado de la siguiente manera:
 ├── ...
 ├── enunciados.md
 └── README.md
-
+/
 
 -Los archivos ejercicio1.py, ejercicio2.py, etc., corresponden a los ejercicios numerados del 1 al 13. Cada archivo contiene el código inicial del ejercicio que deberás completar.
 -El archivo enunciados.md contiene los enunciados detallados de cada ejercicio. Te recomendamos leerlos antes de comenzar a trabajar en los ejercicios.
